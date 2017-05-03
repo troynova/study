@@ -1,0 +1,33 @@
+div {
+
+    text-align: center;
+
+}
+
+div a {
+
+    display: inline-block;
+    text-align: center;
+    line-height: 50px;
+    background-color: dodgerblue;
+    padding: 0 10px;
+
+}
+
+.block {
+
+    height: 200px;
+    background-color: red;
+    position: relative;
+
+}
+
+.line {
+
+    width: 98.5%;
+    background-color: lightblue;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+
+}
